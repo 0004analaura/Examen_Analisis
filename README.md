@@ -1,4 +1,7 @@
-﻿# Sistema de Gestión de Incidentes - Net Guard GT
+﻿
+# ANA LAURA DE MARIA OLIVA CRUZ 
+
+# Sistema de Gestión de Incidentes - Net Guard GT
 
 > **Repositorio GitHub:** [Examen_Analisis](https://github.com/0004analaura/Examen_Analisis)  
 > **Proyecto API:** `NetGuardGT.Api` · **Pruebas:** `NetGuardGT.Tests` · **Solución:** `NetGuardGT.sln`
@@ -272,10 +275,10 @@ La inteligencia artificial (Cursor / asistente de código) fue utilizada como **
 - Estructurar la solución en capas (Controllers, Services, Data, DTOs).
 - Generar ideas para organizar las reglas de negocio.
 - Revisar la lógica de transiciones de estado y escalación.
-- Mejorar la documentación (README).
+- Mejorar la documentación (README, USO_IA.md).
 - Acelerar la creación de pruebas unitarias y documentación.
 
-Todas las decisiones de negocio, validaciones y ajustes finales fueron revisados para cumplir los requisitos del examen.
+Todas las decisiones de negocio, validaciones y ajustes finales fueron revisados para cumplir los requisitos del examen. Ver detalle en `USO_IA.md`.
 
 ## Estructura del proyecto
 
@@ -292,7 +295,8 @@ Examen_Analisis/                    ← repositorio GitHub
 │   └── DTOs/
 ├── NetGuardGT.Tests/                ← proyecto de pruebas
 ├── Dockerfile
-└── README.md
+├── README.md
+└── USO_IA.md
 ```
 
 
