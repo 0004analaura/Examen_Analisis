@@ -1,0 +1,6 @@
+﻿@NetGuardGT.Api_HostAddress = http://localhost:8080
+
+GET {{NetGuardGT.Api_HostAddress}}/api/tecnicos
+
+###
+GET {{NetGuardGT.Api_HostAddress}}/api/incidentes
